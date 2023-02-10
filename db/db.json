@@ -1,0 +1,69 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Tradicional"
+      },
+      {
+        "id": 2,
+        "tipo": "Australiano"
+      },
+      {
+        "id": 3,
+        "tipo": "Integral"
+      }
+    ],
+    "salsichas": [
+      {
+        "id": 1,
+        "tipo": "1"
+      },
+      {
+        "id": 2,
+        "tipo": "2"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Ketchup"
+      },
+      {
+        "id": 2,
+        "tipo": "Maionese"
+      },
+      {
+        "id": 3,
+        "tipo": "Mostarda"
+      },
+      {
+        "id": 4,
+        "tipo": "Batata palha"
+      },
+      {
+        "id": 4,
+        "tipo": "Carne moida"
+      },
+      {
+        "id": 4,
+        "tipo": "Queijo ralafo"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "hotdogs": []
+}
